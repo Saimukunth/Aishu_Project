@@ -15,7 +15,7 @@ object MinimumTemperature {
       master("yarn").
       getOrCreate()
 
-    // Reading the file
+    // Reading the file from hdfs
 
     val temperatureRDD = spark.
       sparkContext.
