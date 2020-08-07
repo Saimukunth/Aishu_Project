@@ -17,7 +17,9 @@ object MinimumTemperature {
 
     // Reading the file
 
-    val temperatureRDD = spark.sparkContext.textFile(args(0))
+    val temperatureRDD = spark.
+      sparkContext.
+      textFile(args(0))
 
     val tempMap: RDD[(String, String, Float)] = temperatureRDD.
       map(m => {
@@ -40,7 +42,8 @@ object MinimumTemperature {
 
     // Collect, format, and print the results
 
-    val results = minTempsByStation.collect()
+    val results = minTempsByStation.
+      collect()
 
     for (result <- results.sorted) {
       val station = result._1
