@@ -1,0 +1,27 @@
+[0m[[0minfo[0m] [0mPackaging D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\target\scala-2.11\aishu_project_2.11-0.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	sparkdemo[0m
+[0m[[0mdebug[0m] [0m	  D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\target\scala-2.11\classes\sparkdemo[0m
+[0m[[0mdebug[0m] [0m	sparkdemo\MinimumTemperature$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\target\scala-2.11\classes\sparkdemo\MinimumTemperature$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	sparkdemo\PersonXML.class[0m
+[0m[[0mdebug[0m] [0m	  D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\target\scala-2.11\classes\sparkdemo\PersonXML.class[0m
+[0m[[0mdebug[0m] [0m	sparkdemo\MinimumTemperature$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\target\scala-2.11\classes\sparkdemo\MinimumTemperature$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	sparkdemo\MinimumTemperature$.class[0m
+[0m[[0mdebug[0m] [0m	  D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\target\scala-2.11\classes\sparkdemo\MinimumTemperature$.class[0m
+[0m[[0mdebug[0m] [0m	sparkdemo\MinimumTemperature$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\target\scala-2.11\classes\sparkdemo\MinimumTemperature$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	hiveudf[0m
+[0m[[0mdebug[0m] [0m	  D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\target\scala-2.11\classes\hiveudf[0m
+[0m[[0mdebug[0m] [0m	sparkdemo\MinimumTemperature.class[0m
+[0m[[0mdebug[0m] [0m	  D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\target\scala-2.11\classes\sparkdemo\MinimumTemperature.class[0m
+[0m[[0mdebug[0m] [0m	sparkdemo\PersonXML$.class[0m
+[0m[[0mdebug[0m] [0m	  D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\target\scala-2.11\classes\sparkdemo\PersonXML$.class[0m
+[0m[[0mdebug[0m] [0m	sparkdemo\MinimumTemperature$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\target\scala-2.11\classes\sparkdemo\MinimumTemperature$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	sparkdemo\MinimumTemperature$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\target\scala-2.11\classes\sparkdemo\MinimumTemperature$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	hiveudf\SimpleUDFExample.class[0m
+[0m[[0mdebug[0m] [0m	  D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\target\scala-2.11\classes\hiveudf\SimpleUDFExample.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

@@ -12,7 +12,8 @@ import org.apache.hadoop.io.Text;
 public class SimpleUDFExample extends UDF {
 
     public Text evaluate(Text input) {
-        if (input == null) return null;
+        if (input == null)
+            return null;
         return new Text("Hello " + input.toString());
     }
 }

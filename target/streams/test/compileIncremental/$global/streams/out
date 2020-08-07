@@ -1,0 +1,36 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\src\test\scala\hiveudf\SimpleUDFExampleTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\src\test\scala\hiveudf\SimpleUDFExampleTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\src\test\scala\hiveudf\SimpleUDFExampleTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\src\test\scala\hiveudf\SimpleUDFExampleTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Java source to D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\target\scala-2.11\test-classes...[0m
+[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@77d3c503 directly...[0m
+[0m[[0mdebug[0m] [0mJava compilation took 0.8425596 s[0m
+[0m[[0mdebug[0m] [0mJava analysis took 0.0958093 s[0m
+[0m[[0mdebug[0m] [0mJava compile + analysis took 0.9512363 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\src\test\scala\hiveudf\SimpleUDFExampleTest.java...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\src\test\scala\hiveudf\SimpleUDFExampleTest.java...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\src\test\scala\hiveudf\SimpleUDFExampleTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\src\test\scala\hiveudf\SimpleUDFExampleTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\src\test\scala\hiveudf\SimpleUDFExampleTest.java source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, equals, testUDF, notifyAll, testUDFNullCheck, SimpleUDFExampleTest, <init>, toString, getClass, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Name hashing optimization doesn't apply to non-Scala dependency: D:\Lenovo_Backup\Kafka and Spark Streaming\demo\Aishu_Project\src\test\scala\hiveudf\SimpleUDFExampleTest.java[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
