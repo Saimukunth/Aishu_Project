@@ -7,7 +7,7 @@ object MinimumTemperature {
 
   def main(args: Array[String]): Unit = {
 
-    // Initiate the spark session
+    // Initiate the spark session using spark 2.3.0
 
     val spark = SparkSession.
       builder().
@@ -15,7 +15,7 @@ object MinimumTemperature {
       master("yarn").
       getOrCreate()
 
-    // Reading the file
+    // Reading the file from hdfs
 
     val temperatureRDD = spark.
       sparkContext.
