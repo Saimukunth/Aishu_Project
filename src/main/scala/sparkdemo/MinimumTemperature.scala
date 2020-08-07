@@ -19,7 +19,8 @@ object MinimumTemperature {
 
     val temperatureRDD = spark.sparkContext.textFile(args(0))
 
-    val tempMap: RDD[(String, String, Float)] = temperatureRDD.map(m => {
+    val tempMap: RDD[(String, String, Float)] = temperatureRDD.
+      map(m => {
       val temp = m.split(",")
       (temp(0), temp(2), temp(3).toFloat)
     })
