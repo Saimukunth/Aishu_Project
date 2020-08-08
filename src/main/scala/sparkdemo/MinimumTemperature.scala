@@ -33,7 +33,7 @@ object MinimumTemperature {
       filter(f => (f._2 == "TMIN")).
       map(m => (m._1, m._3))
 
-    // Find the min temperature
+    // Find the min temperature from the input
 
     val minTempsByStation = min_records.
       reduceByKey((x, y) => {
